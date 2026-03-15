@@ -1,4 +1,4 @@
-# API Testing Scenarios - E-Commerce (Postman)
+# API Testing Scenarios
 
 I used **Postman** to validate the backend services. Testing APIs ensures that the data being sent to the UI is correct and secure.
 
@@ -21,6 +21,6 @@ I used **Postman** to validate the backend services. Testing APIs ensures that t
   - Verified `201 Created` when a new item is added.
   - Verified that the 'Cart Total' updates correctly in the response body.
 
-### 🛠️ Tools Used
+###  Tools Used
 - **Postman** (for sending requests).
 - **JSON** (for data validation).
